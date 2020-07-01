@@ -45,5 +45,12 @@
         "src/MercadoPago/Entities/Shared/"
       ]
     }
-  }
+  },
+  "repositories": [
+    {
+       "type": "composer", 
+       "url": "https://packagist.org"
+    },
+    { "packagist": false }
+]
 }
